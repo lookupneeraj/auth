@@ -1,0 +1,8 @@
+springbootjjwt.password.secret: mysecret
+springbootjjwt.password.iteration: 33
+springbootjjwt.password.keylength: 256
+
+springbootjjwt.jjwt.secret: ThisIsSecretForJWTHS512SignatureAlgorithmThatMUSTHave64ByteLength
+springbootjjwt.jjwt.expiration: 28800
+
+server.port: 8181
